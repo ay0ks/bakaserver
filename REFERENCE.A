@@ -1,0 +1,14 @@
+\S"Opcodes"{
+  \Ss(H)"Error codes"{
+    \Kv{-001,""}
+    \Kv{-002,""}
+    \Kv{-003,"Registration error"}
+  }
+  \Kv{000,"Ok"}
+  \Kv{001,""}
+  \Kv{002,"Succefully connected, please register"}
+  \Kv{003,"Successfully registered"}
+  \Kv{004,"Welcome"}
+  \Kv{005,""}
+  \Kv{}
+}
